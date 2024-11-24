@@ -1,6 +1,6 @@
 # Responsible AI governance: A response to UN interim report on governing AI for humanity
 
-### Key Highlights:
+### Key Highlights from the report:
 
 #### Opportunities and Enablers:
 Leveraging AI to enhance global access to knowledge and align with Sustainable Development Goals (SDGs).
@@ -18,7 +18,8 @@ Anchoring governance in inclusivity, accountability, and transparency.
 Proposing institutional frameworks for horizon scanning, standard alignment, and compliance monitoring.
 
 
-Suggested Citation in BibTex:
+##### Suggested Citation in BibTex:
+```
 @techreport{soton488908,
           number = {10.5258/SOTON/PP0057},
            month = {March},
@@ -29,5 +30,5 @@ Suggested Citation in BibTex:
             year = {2024},
              url = {https://eprints.soton.ac.uk/488908/}
 }
-
+```
 
