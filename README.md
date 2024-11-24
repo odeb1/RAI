@@ -18,7 +18,7 @@ Anchoring governance in inclusivity, accountability, and transparency.
 Proposing institutional frameworks for horizon scanning, standard alignment, and compliance monitoring.
 
 
-##### Suggested Citation in BibTex:
+##### Recommended Citation Format in BibTex:
 ```
 @techreport{soton488908,
           number = {10.5258/SOTON/PP0057},
